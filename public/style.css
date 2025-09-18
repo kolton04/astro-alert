@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(34, 44, 61);
+}
+
+#astrosphericChart{
+    display: flex;
+    justify-content: center; 
+}

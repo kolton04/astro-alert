@@ -1,0 +1,5 @@
+moon phase display. percentage green if under 50%, yellow is under 75%, red if under 100%
+dso, planet, and interesting stars for the night list
+
+app id = 8c326a3b-a2a7-4db6-9f6c-2a56e6c180f8
+app secret = aadef6b65bf663552d584d18197c512f431cd1d1e42fa189d625d4fe3f2bb38ec3ea4ff01b2f5880436a5cf0970eeb9b3269b95372eb9d7798763846cdddbaedd13cb18c34c488a0d4c16127507666d7915158adcf9409dfecebb07b8d3986dedc8a3c0d0c4ecc5f38dbb7fdc18bb3f0
